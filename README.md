@@ -2,6 +2,6 @@
 
 Role Based Authentication and Authorization system with Gin-gonic framework
 # ########
--Roles(Admin, User)
+-Roles ( Admin, User )
 # ########
--Permissions(create, read, update, delete)
+-Permissions ( create, read, update, delete )
